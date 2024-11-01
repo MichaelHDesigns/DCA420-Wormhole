@@ -1,0 +1,5 @@
+{
+  "networks": ["ethereum", "solana", "polygon"],
+  "tokens": ["ETH", "WETH", "MATIC", "WMATIC", "DCA420", "WHETH", "WHSOL"],
+  "theme": "light"
+}
