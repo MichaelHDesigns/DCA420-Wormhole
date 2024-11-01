@@ -82,6 +82,8 @@ const iconMap: { [key in Icon]: React.JSX.Element } = {
   [Icon.DCA420]: noIcon,
   [Icon.WHETH]: noIcon,
   [Icon.WHSOL]: noIcon,
+  [Icon.DEVIL]: noIcon,
+  [Icon.$DEVIL]: noIcon,
 };
 
 function isBuiltinIcon(icon?: Icon | string): icon is Icon {

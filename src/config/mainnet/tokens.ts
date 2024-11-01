@@ -2796,4 +2796,34 @@ export const MAINNET_TOKENS: TokensConfig = {
       default: 9,
     },
   },
+  DEVIL: {
+    key: '$DEVIL',
+    symbol: '$DEVIL',
+    nativeChain: 'ethereum',
+    tokenId: {
+      chain: 'ethereum',
+      address: '0x7Be119188a99E3cB86c6b70A1EF395430B1eA1fF',
+    },
+    coinGeckoId: 'dca420-meme-index',
+    icon: 'https://avatars.githubusercontent.com/u/43361618?v=4',
+    color: '#2894EE',
+    decimals: {
+      default: 18,
+    },
+  },
+  $DEVIL: {
+    key: '$DEVIL',
+    symbol: '$DEVIL',
+    nativeChain: 'solana',
+    tokenId: {
+      chain: 'solana',
+      address: '9wAX3eYxAuRHsqgZC9LATE22CwVkPbAb62Thwd7Cqj7n',
+    },
+    coinGeckoId: 'dca420-meme-index',
+    icon: 'https://avatars.githubusercontent.com/u/43361618?v=4',
+    color: '#2894EE',
+    decimals: {
+      default: 9,
+    },
+  },
 };

@@ -32,6 +32,8 @@ export enum Icon {
   'DCA420',
   'WHETH',
   'WHSOL',
+  "DEVIL",
+  "$DEVIL",
   'TBTC',
   'WSTETH',
   'ARBITRUM',
